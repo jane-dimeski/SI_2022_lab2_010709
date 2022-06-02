@@ -6,7 +6,7 @@
 
 Фотографија од control flow graph-от
 
-<img width="3050" alt="Lab02-CFG" src="https://user-images.githubusercontent.com/5346438/171729371-7918b7a1-1d81-432f-aaf6-736dfecfb15a.png">
+<img width="3050" alt="Lab02-CFG" src="https://user-images.githubusercontent.com/5346438/171736412-433408f9-cbcf-4a00-aea2-cba30c85e089.png">
 
 ### Цикломатска комплексност
 
